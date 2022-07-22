@@ -61,7 +61,7 @@ rm -r tie_fighter_3
 21.cd x_wing/
 touch the_force.txt
 
-22. cd .. to get to the death_star 
+22. cd .. to get to galaxy-far-far-away 
 rm -r death_star
 
 23. mv ./x_wing/ ./yavin_4/
